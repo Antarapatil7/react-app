@@ -1,0 +1,34 @@
+.App {
+    text-align: center;
+}
+
+.welcome {
+    padding-top: 5%;
+}
+
+.para {
+    padding-left: 5%;
+}
+
+.bar {
+    padding: 0% 5%;
+    height: 165px;
+}
+.card:hover {
+    box-shadow: 1px 5px 10px #6E57E0;
+    transform: scale(1.1);
+    transition: 1s;
+}
+.border-r {
+    border-radius: 10px;
+}
+.btn-line {
+    outline-style: solid;
+    outline-color: hsl(250, 69%, 61%);
+}
+.btn-line:hover {
+    outline-color: hsl(249, 59%, 13%);
+}
+.loader-clr {
+    color: hsl(250, 69%, 61%);
+}
